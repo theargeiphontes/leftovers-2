@@ -1,0 +1,20 @@
+{
+    "games": [
+        {
+            "title": "World of Warcraft",
+            "expansion": "false"
+        },
+        {
+            "title": "Mists of Pandaria",
+            "expansion": "true"
+        },
+        {
+            "title": "Guild Wars 2",
+            "expansion": "false"
+        },
+        {
+            "title": "The Old Republic",
+            "expansion": "false"
+        }
+    ]
+}
