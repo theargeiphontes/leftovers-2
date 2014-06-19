@@ -17,5 +17,5 @@ Creating an implementation of the [Leftovers](leftoversraiding.org) raiding and 
 	* connect to it with `mongo`
 
 ###To Do
-* Hello world with express
+* ~~Hello world with express~~
 * Spin up express and mongodb using grunt
